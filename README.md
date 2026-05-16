@@ -1,2 +1,3 @@
 # hermes-agent
-Test repo for Hermes agent
+
+GitHub is configured and working.
